@@ -7,10 +7,32 @@ print the date to the currently active window.
 It is recommended to launch this script via a
 keyboard shortcut.
 
-Installation instructions
+
+
+Creating the keyboard shortcut:
+Go to your system settings and find the settings
+for keyboard shortcuts. Add a new shortcut that
+launches a program or command. Enter printdate.sh
+as the program or command to be launched. Don't
+forget to set a key combination (for example
+Shift+D)
+
+
+
+Installation instructions:
 Open a terminal in the top folder of the printdate
 package and run the install script as follows:
 
 ./install.sh
 
 This will install printdate.sh to /usr/local/bin.
+
+
+
+Uninstallation instructions:
+Open a terminal in the top folder of the printdate
+package and run the uninstall script as follows:
+
+./uninstall.sh
+
+This will uninstall printdate.sh from /usr/local/bin.
