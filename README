@@ -1,5 +1,6 @@
               printdate - README
 
+Quick overview:
 printdate.sh is a small script that uses xvkbd
 (a virtual keyboard for the X Window System) to
 print the date to the currently active window.
