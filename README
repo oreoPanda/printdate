@@ -1,0 +1,15 @@
+              printdate - README
+
+printdate.sh is a small script that uses xvkbd
+(a virtual keyboard for the X Window System) to
+print the date to the currently active window.
+It is recommended to launch this script via a
+keyboard shortcut.
+
+Installation instructions
+Open a terminal in the top folder of the printdate
+package and run the install script as follows:
+
+./install.sh
+
+This will install printdate.sh to /usr/local/bin.
